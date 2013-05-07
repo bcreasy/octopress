@@ -7,6 +7,6 @@ categories:
 ---
 you heard me...
 
-<a href="http://www.codepoetry.net/archives/2004/05/06/weblogs_killed_the_personal_website.php">http://www.codepoetry.net/archives/2004/05/06/weblogs_killed_the_personal_website.php</a>
+[http://www.codepoetry.net/archives/2004/05/06/weblogs_killed_the_personal_website.php](http://www.codepoetry.net/archives/2004/05/06/weblogs_killed_the_personal_website.php)
 
 somewhat of an old article, but i still like it.

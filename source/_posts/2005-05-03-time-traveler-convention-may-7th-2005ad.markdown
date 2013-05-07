@@ -5,7 +5,7 @@ date: 2005-05-03 09:37
 comments: true
 categories: 
 ---
-Note: This page is a mirror of the original page found <a href="http://web.mit.edu/adorai/timetraveler/">here</a>.  Please make your own mirror of the original page on your own web log or journal and don't link to this one.
+Note: This page is a mirror of the original page found [here](http://web.mit.edu/adorai/timetraveler/).  Please make your own mirror of the original page on your own web log or journal and don't link to this one.
 
 The Time Traveler Convention<br>
 May 7, 2005, 10:00pm EDT (08 May 2005 02:00:00 UTC) (event starts at 8:00pm)<br>
@@ -17,7 +17,7 @@ East Campus Courtyard, MIT<br>
 
 ###What is it?###
 
-<a href="http://catandgirl.com/view.php?loc=131">Technically, you would only need one time traveler convention.</a> Time travelers from all eras could meet at a specific place at a specific time, and they could make as many repeat visits as they wanted. We are hosting the first and only Time Traveler Convention at MIT in one week, and WE NEED YOUR HELP!
+[Technically, you would only need one time traveler convention.](http://catandgirl.com/view.php?loc=131) Time travelers from all eras could meet at a specific place at a specific time, and they could make as many repeat visits as they wanted. We are hosting the first and only Time Traveler Convention at MIT in one week, and WE NEED YOUR HELP!
 
 ###Why do you need my help?###
 
@@ -33,11 +33,11 @@ You can also make an absolute commitment to publicize the convention afterwards.
 
 Yes, they can! In fact, we think this will happen, and the small number of adventurous time travelers who do attend will go back to their "home times" and tell all their friends to come, causing the convention to become a Woodstock-like event that defines humanity forever.
 
-Unfortunately, we of the present (2005) don't have time travel, and so we only have one chance at observing the convention. If the time travelers don't leave us their secrets, we won't be able to go back in time and see our convention in all its glory unless it is publicized <em>in advance</em>.
+Unfortunately, we of the present (2005) don't have time travel, and so we only have one chance at observing the convention. If the time travelers don't leave us their secrets, we won't be able to go back in time and see our convention in all its glory unless it is publicized *in advance*.
 
 ###Isn't time travel impossible?###
 
-We can't know for certain. The ancient Greeks would have thought computers were impossible, and the Phoenicians certainly wouldn't have believed that humans would one day send a spacecraft to the moon and back. We cannot predict the future of science or technology, so we can only make an effort and see if any time travelers come to our convention. If you would like to read more about time travel, check out our <a href="http://web.mit.edu/adorai/timetraveler/readinglist.html">reading list</a>.
+We can't know for certain. The ancient Greeks would have thought computers were impossible, and the Phoenicians certainly wouldn't have believed that humans would one day send a spacecraft to the moon and back. We cannot predict the future of science or technology, so we can only make an effort and see if any time travelers come to our convention. If you would like to read more about time travel, check out our [reading list](http://web.mit.edu/adorai/timetraveler/readinglist.html).
 
 ###I'm from the future, and I'd like to attend!###
 
@@ -45,7 +45,7 @@ We're not sure how you're emailing us from the future, but we'd love to have you
 
 ###I'm from the present, and I'd like to attend!###
 
-Great! We would also love to have you, especially if you have helped publicize. We request that you bring refreshments if possible, as we need to make this a great party for you and for the time travelers. <a href="mailto:timetravelerconvention@gmail.com">RSVP</a> at timetravelerconvention@gmail.com, and then show up at the designated place at the designated time! The <a href="http://web.mit.edu/adorai/timetraveler/ec.html">East Campus</a> Courtyard is in between the two red rectangles on <a href="http://whereis.mit.edu/map-jpg?mapterms=east+campus">this map</a>. If you plan on attending, <strong>PLEASE</strong> check this page frequently for updates. <strong>UPDATE 5/2</strong>: Convention events start at 8pm now. Feel free to come at either 8pm, 10pm, or anytime in between. We'd recommend coming early as we hope to get some very interesting speakers and musicians for this time.
+Great! We would also love to have you, especially if you have helped publicize. We request that you bring refreshments if possible, as we need to make this a great party for you and for the time travelers. [RSVP](mailto:timetravelerconvention@gmail.com) at timetravelerconvention@gmail.com, and then show up at the designated place at the designated time! The [East Campus](http://web.mit.edu/adorai/timetraveler/ec.html) Courtyard is in between the two red rectangles on [this map](http://whereis.mit.edu/map-jpg?mapterms=east+campus). If you plan on attending, **PLEASE** check this page frequently for updates. **UPDATE 5/2**: Convention events start at 8pm now. Feel free to come at either 8pm, 10pm, or anytime in between. We'd recommend coming early as we hope to get some very interesting speakers and musicians for this time.
 
 ###I'm from the present, and I'd like to attend, but I can't!###
 
@@ -53,4 +53,4 @@ No worries! If time travel is invented in your lifetime, you can always come lat
 
 ###I've volunteered and helped publicize!###
 
-Thanks! If you'd like to be included in the <a href="http://web.mit.edu/adorai/timetraveler/gallery/">gallery</a>, please send us a picture of your publicity effort by <a href="mailto:timetravelerconvention@gmail.com">email</a> at timetravelerconvention@gmail.com. You can also email us with any other questions you might have.
+Thanks! If you'd like to be included in the [gallery](http://web.mit.edu/adorai/timetraveler/gallery/), please send us a picture of your publicity effort by [email](mailto:timetravelerconvention@gmail.com) at timetravelerconvention@gmail.com. You can also email us with any other questions you might have.

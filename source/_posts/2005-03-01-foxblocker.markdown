@@ -7,4 +7,4 @@ categories:
 ---
 > "FOXBlocker is an innovative new product that filters out the FOX News network. Simply screw the filter into the back of your TV and never be exposed to right wing propaganda again (at least through FOX News). Using a proprietary technology, the FOXBlocker works to filter out FOX News from your cable lineup."
 
-Get yours <a href="http://mambo.foxblocker.com/" target="Foxblocker">here</a>.
+Get yours [here](http://mambo.foxblocker.com/).

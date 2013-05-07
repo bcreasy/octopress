@@ -6,4 +6,4 @@ comments: true
 categories: 
 ---
 switched caffeine.nu to a php interface. yay.
-been listening to <a href="#">the anniversary</a> most of the day.  their first album rocks so much.  oh yeah.. the guestbook is non-functional for a little bit. i'm working on learning some php+mysql so i can make it not so hacked.
+been listening to [the anniversary](http://www.anniversaryrock.com) most of the day.  their first album rocks so much.  oh yeah.. the guestbook is non-functional for a little bit. i'm working on learning some php+mysql so i can make it not so hacked.
