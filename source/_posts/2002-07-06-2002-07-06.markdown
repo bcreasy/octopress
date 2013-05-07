@@ -1,0 +1,19 @@
+---
+layout: post
+title: "2002-07-06"
+date: 2002-07-06 00:20
+comments: true
+categories: 
+---
+```
+Filesystem    Size   Used  Avail Capacity  Mounted on
+/dev/ad1s1e    30G   7.1G    20G    26%    /mnt/mp3
+/dev/ad2s1e    41G    16G    22G    42%    /mnt/mp3/fullcds[0-M]
+/dev/ad2s2e    38G    11G    24G    30%    /mnt/mp3/fullcds[N-Z]
+```
+
+mix that up a bit with 41 cd's full of mp3s, my 208 capacity cd binder filled to the brim with warez, movies, games, and anime, and you be owned, brotha.
+
+the guestbook is back online. after months of not doing anything with making a mysql backend to the guestbook, i just put it back up to it's original version. i love laziness.
+
+-peace.

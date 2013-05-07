@@ -1,0 +1,8 @@
+---
+layout: post
+title: "2001-12-31"
+date: 2001-12-31 03:47
+comments: true
+categories: 
+---
+man, have i been bored today. i was so bored that i actually did productive stuff. most obviously, the redoing of caffeine.nu at port eighty. before i hopped onto html, i compiled some stuff on erwin's freebsd partition, namely gnome 1.4. it's not bad visually, but it could be a little more faster. it's pokey pokey &#94;v&#94;. later on today (after i wake up), i shall head over to the doctor's lab for a little new years shindig. get to hang out with some people i talk to all the time, but rarely see. fun. on the music front today, i've been listening a lot to dance hall crashers who are a sort of ska'ish band. good stuff. oh well.. lemme know what you think of the new look of the page via guestbook or email or whatever. i doubt people who look at this (nobody) don't know how to contact me otherwise. peace outside.

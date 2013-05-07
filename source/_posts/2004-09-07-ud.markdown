@@ -1,0 +1,12 @@
+---
+layout: post
+title: "hooray for cancer research!"
+date: 2004-09-07 23:33
+comments: true
+categories: 
+---
+<img src="graphics/ud-2years.jpg" alt="Two Year UD Uptime" width="488" height="330" />
+
+hooray for cancer research..  i just reached two years worth of cpu time in my help to research a possible cure for cancer.  <a href="http://www.grid.org/projects/cancer/" onclick="window.open(this.href, '_new');return false;">Grid.org</a> provides a distributed method of performing calculations on billions of different molecules that would take a single research lab thousands of years to calculate.  it works similar to how SETI@home works to search the sky for extra-terrestrial life.  the cool thing about the UD client is that it runs in the background and only uses the cpu cycles that you are not using.  i've been using it for over two years now and have never noticed a slowdown.
+
+there's nothing to lose by <a href="http://www.grid.org/projects/cancer/" onclick="window.open(this.href, '_new');return false;">downloading the client</a> and there's everything to gain.

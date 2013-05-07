@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Better than NcFTP?"
+date: 2005-08-23 22:09
+comments: true
+categories: 
+---
+I'm starting to get annoyed with the <a href="http://www.ncftp.com">NcFTP</a> FTP client.  It's got some raw commands only used by NcFTP products that are not included in the <a href="http://www.ietf.org/rfc/rfc0959.txt?number=0959">FTP RFC</a>.  The specific command that I'm taking issue with is 'CLNT'.  From what I gather by google researching, the command first appeared in NcFTPd and NcFTP[Get|Put] and only a few (thankfully) ftp daemons have implemented it.
+
+<!--more-->
+
+As far as I can tell, there's no way to disable the sending of the 'CLNT' command in NcFTP (while there is a way to do so in NcFTP[Get|Put]).  That, along with the fact that you can't get any support from NcFTP, is pretty damned frustrating if you ask me.
+
+My question is this:  hasn't anyone made a better command-line ftp client yet?  As far as I know, NcFTP has been the defacto *nix FTP client for the everyday user.  So far tonight I've tried <a href="http://yafc.sourceforge.net/">YAFC</a> and <a href="http://cmdftp.sourceforge.net/">cmdftp</a> in my quest to find a better FTP client.  At first try, neither of those two worked the way I wanted them to.
+
+These are the things that I need my command-line FTP client to be able to do:
+
+* Send/Get files recursively.
+* Accept a username in the form of "username@hostname:port" for connecting with <a href="http://tlswrap.sunsite.dk">tlswrap</a>.
+* If previous feature is lacking, it needs to provide its own method of connecting to sites via TLSv1 or TLSv2 authentication.  Auth SSL also a plus.
+* Must have bookmarking capabilities equal-to or better than NcFTP's.
+* Easy way to drop to shell. (i.e. '!')
+* REST.  Needs to be able to resume files accurately.
+* Paged file listings for when the listing is longer than 24 lines.
+
+These are the things that I'd _like_ to see in a command-line ftp client but that I can get along fine without:
+
+* A file transfer queue.
+* FXP site-to-site transfers.
+* File filter list to filter out certain files that I never want to get/send (.debug and .message come to mind).
+
+Does anyone know of any good clients that can do what I want?  I can't imagine NcFTP is the only client that people have used for the past 9+ years.

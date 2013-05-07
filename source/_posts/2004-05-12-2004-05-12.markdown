@@ -1,0 +1,10 @@
+---
+layout: post
+title: "2004-05-12"
+date: 2004-05-12 01:09
+comments: true
+categories: 
+---
+woohoo.. finally got spam filtering working on nayuki (with a little help from myndwire).  this means i can switch over the mail server from crudpuppy to nayuki.  it's actually been running on nayuki, but only for one domain.  so, seele's been beta testing it in a way.  but now i can actually move everything over to it.
+
+i think this is pretty much the last big service to move off of crudpuppy.  i'll leave web up, but it'll only listen for crudpuppy.caffeine.nu, and it won't work for user accounts on it.  this is pretty much so i can have my little xmms "listening to" app be able to function.
