@@ -3,7 +3,7 @@ layout: post
 title: "media"
 date: 2005-09-08 13:04
 comments: true
-categories: 
+categories: Politics
 ---
 the media coverage summed up in one quote:
 

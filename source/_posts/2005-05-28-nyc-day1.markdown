@@ -4,6 +4,8 @@ title: "NYC - Day 1 :: Friday"
 date: 2005-05-28 04:09
 comments: true
 categories: 
+- Travel
+- New York City
 ---
 Well.. After getting a somewhat late start at about 1800, we finally arrived at our hotel in New York City.
 

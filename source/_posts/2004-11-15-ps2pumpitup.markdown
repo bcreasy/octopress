@@ -4,6 +4,9 @@ title: "pump it up for ps2"
 date: 2004-11-15 11:14
 comments: true
 categories: 
+- Video Games
+- Pump It Up
+- DDR
 ---
 News that Pump It Up is coming to Playstation 2 and my experiences with the game.
 

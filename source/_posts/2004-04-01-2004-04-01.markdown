@@ -3,7 +3,7 @@ layout: post
 title: "2004-04-01"
 date: 2004-04-01 12:54
 comments: true
-categories: 
+categories: [Server, FreeBSD]
 ---
 alright.  nayuki.caffeine.nu is now set up at stargate's datacenter in greentree.  i'm going to be moving most of the services on crudpuppy over to nayuki.  so far, i've moved the web server, mysql server, and shell accounts over to nayuki.  i'm in the process of fixing up the mail server real nicely using postfix/mysql/courier-imap.  i might use sasl for smtp authentication also.  i'm not sure about that yet.
 

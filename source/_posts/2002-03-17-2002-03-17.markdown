@@ -3,6 +3,6 @@ layout: post
 title: "2002-03-17"
 date: 2002-03-17 09:50
 comments: true
-categories: 
+categories: [Hardware, Downtime]
 ---
 /me sighs. power outage at home last night. uptime go down the hooooole. crudpuppy's uptime _was_ around 103 days. oh well.. gives me some time to do some maintenance.

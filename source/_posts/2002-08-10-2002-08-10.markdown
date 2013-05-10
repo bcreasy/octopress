@@ -3,7 +3,7 @@ layout: post
 title: "2002-08-10"
 date: 2002-08-10 14:24
 comments: true
-categories: 
+categories: [Software, Music, Meta]
 ---
 since i finally got the xmms-extras package to compile on dustpuppy, i immediately started to work on getting the "what i'm listening to" string that you see at the in the upper-left working.  woo. i rock. now you can see what great music i'm listening to.
 

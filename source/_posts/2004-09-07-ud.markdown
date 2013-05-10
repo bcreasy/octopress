@@ -3,7 +3,7 @@ layout: post
 title: "hooray for cancer research!"
 date: 2004-09-07 23:33
 comments: true
-categories: 
+categories: [Software, Link]
 ---
 ![Two Year UD Uptime](graphics/ud-2years.jpg)
 

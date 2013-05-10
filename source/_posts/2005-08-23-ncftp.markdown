@@ -3,7 +3,7 @@ layout: post
 title: "Better than NcFTP?"
 date: 2005-08-23 22:09
 comments: true
-categories: 
+categories: [Software, Rant]
 ---
 I'm starting to get annoyed with the [NcFTP](http://www.ncftp.com) FTP client.  It's got some raw commands only used by NcFTP products that are not included in the [FTP RFC](http://www.ietf.org/rfc/rfc0959.txt?number=0959).  The specific command that I'm taking issue with is 'CLNT'.  From what I gather by google researching, the command first appeared in NcFTPd and NcFTP[Get|Put] and only a few (thankfully) ftp daemons have implemented it.
 

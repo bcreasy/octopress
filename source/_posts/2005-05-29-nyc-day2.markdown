@@ -4,6 +4,8 @@ title: "NYC - Day 2 :: Saturday"
 date: 2005-05-29 01:14
 comments: true
 categories: 
+- Travel
+- New York City
 ---
 Upon waking up today, we planned on going to see the site of the World Trade Center.
 

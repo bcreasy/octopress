@@ -4,6 +4,8 @@ title: "NYC - Day 3 :: Sunday"
 date: 2005-05-30 00:52
 comments: true
 categories: 
+- Travel
+- New York City
 ---
 We were planning on going to see the Statue of Liberty this morning, so we headed down to Battery Park to buy tickets.
 

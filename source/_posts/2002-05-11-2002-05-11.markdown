@@ -3,7 +3,7 @@ layout: post
 title: "2002-05-11"
 date: 2002-05-11 03:28
 comments: true
-categories: 
+categories: [Hardware, Music, Anime]
 ---
 woo.. finally got a new hard drive for miranda.  her old one was starting to lock up sometimes, so i figured i'd buy a bigger one.  right now, i'm i've got most of the major things reinstalled on her.  spent most of the day doing that kind of stuff.  i also watched half of the cowboy bebop anime series.  pretty much awesome so far.
 also, i'm back home for the summer which is kinda cool, but i'll miss the 900k/sec up/down bandwidth.  i've got a pretty nice playlist kickin right now consisting of [the get up kids](http://www.thegetupkids.com), [riddlin' kids](http://www.riddlinkids.net), and [the ataris](http://www.ataris.com).

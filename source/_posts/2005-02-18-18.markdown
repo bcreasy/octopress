@@ -3,6 +3,6 @@ layout: post
 title: "wp15"
 date: 2005-02-18 17:10
 comments: true
-categories: 
+categories: Meta
 ---
 I just upgraded to WordPress 1.5 and the old style that I used doesn't work because it needs a template.  Oh well.  This default is nice.

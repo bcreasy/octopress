@@ -3,7 +3,7 @@ layout: post
 title: "christmas"
 date: 2004-12-27 14:46
 comments: true
-categories: 
+categories: Life
 ---
 My christmas winnings...
 
