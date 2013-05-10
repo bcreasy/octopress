@@ -3,7 +3,7 @@ layout: post
 title: "2004-07-18"
 date: 2004-07-18 20:19
 comments: true
-categories: 
+categories: caffeine.nu
 ---
 a stupid little quiz that a few of my friends had taken.  pretty much accurate, i'd say:
 

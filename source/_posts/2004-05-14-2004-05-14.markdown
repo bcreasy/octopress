@@ -3,6 +3,6 @@ layout: post
 title: "2004-05-14"
 date: 2004-05-14 12:20
 comments: true
-categories: Meta
+categories: [Meta, caffeine.nu]
 ---
 site redesign. send me comments.

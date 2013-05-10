@@ -3,7 +3,7 @@ layout: post
 title: "Gas Log"
 date: 2004-10-22 00:46
 comments: true
-categories: Software
+categories: [Software, Lebwog]
 ---
 i set up a page where i log gas consumption and usage.
 

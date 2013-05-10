@@ -5,6 +5,7 @@ date: 2003-12-31 02:55
 comments: true
 categories: 
 - Web Development
+- caffeine.nu
 ---
 well, i've been working on converting this whole page to have a css layout for the past few weeks.  unfortunately, thanks to microsoft and co., internet explorer 6.0 completely sucks at rendering css.  while i've had the code and layout to convert over working fine in mozilla and opera, internet explorer refused to cooperate.  the main bug that was showing up was related to the a:hover action in the menu items.  when you put the mouse over the menu, it's supposed to highlight the whole row, but in internet explorer, this would only happen if you put the pointer directly over the text.  this was unacceptable.  tonight when i was messing around with it, i finally figured out why it was doing that.  it had to do with the background.  i had it set as "clear" when IE wanted it to be set as "white".
 

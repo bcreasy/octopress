@@ -3,7 +3,7 @@ layout: post
 title: "2003-07-20"
 date: 2003-07-20 06:38
 comments: true
-categories: [Meta, Music, Downtime, Comcast, Hardware, Sparc, Software]
+categories: [Meta, Music, Downtime, Comcast, Hardware, Sparc, Software, caffeine.nu]
 ---
 switched this log section of caffeine.nu to a database backend.  fun late night, early morning, boredness.
 

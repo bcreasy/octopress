@@ -6,6 +6,7 @@ comments: true
 categories: 
 - Travel
 - New York City
+- Lebwog
 ---
 Upon waking up today, we planned on going to see the site of the World Trade Center.
 

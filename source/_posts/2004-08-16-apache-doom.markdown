@@ -3,7 +3,7 @@ layout: post
 title: "apache doom"
 date: 2004-08-16 01:07
 comments: true
-categories: [Server, FreeBSD, Apache]
+categories: [Server, FreeBSD, Apache, Lebwog]
 ---
 all i wanted to do was add the halcyonhosting.net virtualhost to apache, restart it, and go to sleep. nayuki disagreed...
 

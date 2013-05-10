@@ -3,7 +3,7 @@ layout: post
 title: "Caffeine"
 date: 2011-02-01 08:35
 comments: true
-categories: Life
+categories: [Life, Facebook]
 ---
 10 years ago, January of 2001, I decided to actively avoid consuming caffeine of any kind.  The reason was simply to "see if I could".  To my knowledge, I have successfully spent the past decade caffeine-free.  This means I have not (that I'm aware of) consumed anything containing caffeine in 10 years.  This includes chocolate and caffeinated beverages.
  

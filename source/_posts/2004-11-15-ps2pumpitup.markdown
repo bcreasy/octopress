@@ -7,6 +7,7 @@ categories:
 - Video Games
 - Pump It Up
 - DDR
+- Lebwog
 ---
 News that Pump It Up is coming to Playstation 2 and my experiences with the game.
 

@@ -6,6 +6,7 @@ comments: true
 categories: 
 - Travel
 - New York City
+- Lebwog
 ---
 We woke up kind of late and we weren't able to see the Statue of Liberty, so we went to find breakfast before leaving town.
 

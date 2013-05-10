@@ -3,6 +3,6 @@ layout: post
 title: "New Theme"
 date: 2005-03-27 21:49
 comments: true
-categories: Meta
+categories: [Meta, Lebwog]
 ---
 I threw together a new design for this.  It's based off of the "scamcity" wp1.5 theme, but I changed almost all of it.  I didn't agree with a lot of the original author's style of coding.  That and the markup didn't validate.  Let me know what you think.

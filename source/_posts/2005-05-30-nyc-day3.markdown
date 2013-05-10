@@ -6,6 +6,7 @@ comments: true
 categories: 
 - Travel
 - New York City
+- Lebwog
 ---
 We were planning on going to see the Statue of Liberty this morning, so we headed down to Battery Park to buy tickets.
 

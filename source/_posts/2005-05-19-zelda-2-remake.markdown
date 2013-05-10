@@ -6,6 +6,7 @@ comments: true
 categories:
 - Video Games
 - Idea
+- Lebwog
 ---
 A Zelda 2 remake.......
 <!--more-->

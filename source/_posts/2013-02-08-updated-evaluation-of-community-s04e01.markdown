@@ -3,7 +3,7 @@ layout: post
 title: "Updated Evaluation of Community s04e01"
 date: 2013-02-08 22:03
 comments: true
-categories: [Television, Community]
+categories: [Television, Community, tumblr]
 ---
 In my previous [post about the first episode of this season of Community](http://genetik.tumblr.com/post/42602538850/story-circles-of-community-s04e01), I made the assertion that it felt weird because it did not follow one of Dan Harmon's story circles. I'm now revising my evaluation because I wasn't thinking about it in the right context.
 
