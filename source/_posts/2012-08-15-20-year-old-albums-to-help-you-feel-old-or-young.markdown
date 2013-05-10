@@ -52,4 +52,4 @@ And that's not all! Here are some of the **debut albums** from bands in my music
 * **"Little Earthquakes", Tori Amos**
 * **"La Sexorcisto: Devil Music Vol. 1", White Zombie**
 
-(Originally [posted to tumblr](http://genetik.tumblr.com/post/29469068902/20-year-old-albums-to-help-you-feel-old-or-young))
+*(Originally [posted to tumblr](http://genetik.tumblr.com/post/29469068902/20-year-old-albums-to-help-you-feel-old-or-young))*
