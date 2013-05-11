@@ -1,0 +1,109 @@
+html {
+	margin: 5px auto;
+	padding: 0;
+	background-color: #eee;
+}
+
+body {
+	margin: 0 auto 10px;
+	padding: 0;
+	width: 800px;
+	border: 1px solid #333;
+	background-color: #fff;
+	font-family: Helvetica, sans-serif;
+	font-size: 85%;
+}
+
+h1 {
+	margin: 0;
+	text-align: center;
+	font-size: 300%;
+}
+
+p#subtitle {
+	margin: 0;
+	text-align: center;
+	font-style: italic;
+}
+
+h2 {
+	padding: 0 10px;
+	margin: 10px 0;
+	border-bottom: 1px solid #999;
+	font-family: Georgia, serif;
+}
+
+h3 {
+	margin: 0;
+}
+
+h3 span.tenure {
+	float: right;
+}
+
+h3 p.location {
+	margin: 0;
+	font-size: 80%;
+	font-weight: normal;
+}
+
+div.position {
+	padding: 0 10px;
+}
+
+div.position div.jobsummary {
+	clear: both;
+	margin: 0 10px;
+}
+
+div.school {
+	padding: 0 10px;
+}
+
+div.general {
+	padding: 0 10px;
+}
+
+h4 {
+	margin: 3px 0;
+}
+
+ul li {
+	margin-bottom: 5px;
+}
+
+div#footer {
+	margin-bottom: 10px;
+}
+
+address {
+	float: left;
+	margin: 10px;
+}
+
+div.contact {
+	float: right;
+	margin: 10px;
+}
+
+div#content {
+	clear: both;
+	background-color: #fff;
+}
+
+div#footer {
+	background-color: #eee;
+	margin: 0;
+	border-top: 10px solid #fc0;
+}
+
+div#footer div.copyright {
+	clear: both;
+	background-color: #333;
+	height: 10px;
+}
+
+a:link { color: #00f; }
+a:visited { color: #00f; }
+a:hover { color: #00f; }
+a:active { color: #00f; }
