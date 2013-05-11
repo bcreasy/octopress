@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Back to the Future"
-date: 2013-05-06 13:56
+date: 2013-05-11 16:37
 comments: true
 categories: Meta
 ---
@@ -13,4 +13,4 @@ To bring myself up to that point, I felt it important to include all of the post
 
 The purpose of this site is to be the central hub for my digital life, hosted and curated by me.  Here, anyone can easily find my accounts on various services as well as read random thoughts and original content I felt were necessary to share with the universe.
 
-So scroll back and enjoy the old content.  Stick around and enjoy the future content.
+So scroll back and enjoy the old content.  Stick around and enjoy the future content!
