@@ -13,6 +13,8 @@ In May of 2013, I decided to put this site together.  Not including various soci
 
 My name is Brian, but I will also answer to the names "genetik" and "Pipo".  I live in Austin, Texas, but I grew up and spent the first 30 years of my life in Pittsburgh, Pennsylvania.  I live with a cat named Lina who is the smartest cat in the world.
 
+{% img center /images/posts-embed/2013-halfmarathon-podium.jpg '2013 Austin Half Marathon' '2013 Austin Half Marathon' %}
+
 Professionally, I am a Release Engineer currently working in the [retail point-of-sale](http://www.starmount.com/) industry.  I've previously worked in the [emergency response management](http://www.collaborativefusion.com/) industry doing web development in addition to release engineering.  My resume can be found <a href="{{ root_url }}/resume/" target="_blank">here</a>.
 
 As with most people with an engineering mindset, I am interested in science-type things.  Biology, astronomy, and nutrition are the first to come to mind right now.  While most of my computers are Apple-made, I have a very strong background with \*nix platforms and prefer to interact with all computers through command line; FreeBSD and Debian Linux power my servers.
