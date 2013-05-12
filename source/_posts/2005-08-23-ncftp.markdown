@@ -16,7 +16,7 @@ My question is this:  hasn't anyone made a better command-line ftp client yet?  
 These are the things that I need my command-line FTP client to be able to do:
 
 * Send/Get files recursively.
-* Accept a username in the form of "username@hostname:port" for connecting with [tlswrap](http://tlswrap.sunsite.dk).
+* Accept a username in the form of "username@hostname:port" for connecting with <strike>[tlswrap](http://tlswrap.sunsite.dk)</strike>.
 * If previous feature is lacking, it needs to provide its own method of connecting to sites via TLSv1 or TLSv2 authentication.  Auth SSL also a plus.
 * Must have bookmarking capabilities equal-to or better than NcFTP's.
 * Easy way to drop to shell. (i.e. '!')
