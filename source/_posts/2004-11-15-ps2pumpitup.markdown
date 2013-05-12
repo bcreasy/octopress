@@ -13,7 +13,7 @@ News that Pump It Up is coming to Playstation 2 and my experiences with the game
 
 <!-- more -->
 
-The Korean take on bemani-type games is finally [coming to the console platform](http://www.play-asia.com/paOS-13-71-7r-70-euo.html).  [Pump It Up](http://www.piugame.com/usa/main.html) is a game very similar to [Dance Dance Revolution](http://www.konami.co.jp/am/ddr/) in that it has upward scrolling arrows and a pad that you play on.
+The Korean take on bemani-type games is finally [coming to the console platform](http://www.play-asia.com/paOS-13-71-7r-70-euo.html).  <strike>[Pump It Up](http://www.piugame.com/usa/main.html)</strike> is a game very similar to [Dance Dance Revolution](http://www.konami.co.jp/am/ddr/) in that it has upward scrolling arrows and a pad that you play on.
 
 I've been playing <acronym title="Dance Dance Revolution">DDR</acronym> for years now and I still love it.  However, this past summer I got into playing Pump It Up in the arcades.  It originally appealed to me because it was so similar to DDR that I figured that, because I'm good at DDR, I would be good at Pump It Up automagically.
 

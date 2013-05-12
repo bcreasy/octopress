@@ -5,4 +5,4 @@ date: 2003-06-11 12:41
 comments: true
 categories: [Hardware, Laptop, caffeine.nu]
 ---
-last week, i got a [new laptop](http://caffeine.nu/main.php?page=ayu). her name is [Ayu](http://webshop.fujitsupc.com/fpc/Ecommerce/buildseriesbean.do?series=P2).  she owns you.
+last week, i got a <strike>[new laptop](http://caffeine.nu/main.php?page=ayu)</strike>. her name is <strike>[Ayu](http://webshop.fujitsupc.com/fpc/Ecommerce/buildseriesbean.do?series=P2)</strike>.  she owns you.

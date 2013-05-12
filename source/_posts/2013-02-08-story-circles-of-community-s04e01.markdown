@@ -5,7 +5,7 @@ date: 2013-02-08 14:32
 comments: true
 categories: [Television, Community, tumblr]
 ---
-*Update: I've [re-evaluated my assessment](http://genetik.tumblr.com/post/42638149372/updated-evaluation-of-community-s04e01).*
+*Update: I've [re-evaluated my assessment]({{ root_url }}/log/2013/02/08/updated-evaluation-of-community-s04e01/).*
 
 In which I examine the first episode of the 4th season of Community. I'd love to hear some other opinions. Did I miss anything?
 

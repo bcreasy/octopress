@@ -7,6 +7,6 @@ categories: [Link, Lebwog]
 ---
 you heard me...
 
-[http://www.codepoetry.net/archives/2004/05/06/weblogs_killed_the_personal_website.php](http://www.codepoetry.net/archives/2004/05/06/weblogs_killed_the_personal_website.php)
+[http://www.codepoetry.net/2004/05/06/weblogs-killed-the-personal-website/](http://www.codepoetry.net/2004/05/06/weblogs-killed-the-personal-website/)
 
 somewhat of an old article, but i still like it.
