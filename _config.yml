@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.cabbits.com/octopress
+url: http://www.briancreasy.net
 title: Brian Creasy
 subtitle: spiral out. keep going.
 author: Brian J. Creasy
@@ -16,7 +16,7 @@ description: The personal website of a human named Brian Creasy.
 date_format: "%F %T"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /octopress/atom.xml
+subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -26,7 +26,7 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /octopress/
+root: /
 permalink: /log/:year/:month/:day/:title/
 source: source
 destination: public
@@ -96,7 +96,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-25096054-1
 
 # Facebook Like
 facebook_like: true
