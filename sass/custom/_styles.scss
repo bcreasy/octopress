@@ -14,3 +14,7 @@ body > header h2 {
 	margin-left: 1em !important;
 	@include text-shadow(#000 3px 3px 10px);
 }
+
+body > footer p {
+	line-height: 1;
+}
