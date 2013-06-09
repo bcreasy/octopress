@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weight Loss Is A Side-Effect"
-date: 2013-06-09 11:09
+date: 2013-06-09 11:54
 comments: true
 published: true
 categories:
