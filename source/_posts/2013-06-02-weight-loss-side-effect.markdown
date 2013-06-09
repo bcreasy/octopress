@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weight Loss Is A Side-Effect"
-date: 2013-06-02 21:22
+date: 2013-06-09 11:09
 comments: true
 published: false
 categories:
@@ -19,6 +19,6 @@ So what caused me to gain weight so early on and for most of my life? I feel lik
 
 Whose fault was it, then? I didn’t have the wisdom or understanding of nutrition to be able to blame myself. I feel like my family simply didn’t know better. It would be easy to blame them for allowing me to eat such a sugar-filled breakfast and so many evening snacks. I feel like it was more so the result of no one in my life understanding nutritional science and no effort from the media, education system or social initiatives to teach it. Everyone back then was taught to follow the food guide pyramid, to lower fat intake, and to get exercise and that was the end of it. If you were fat after you followed all of the recommendations, it was simply out of your control. The schools should have definitely put a stop to the shitty food and vending machines in order to curb any sort of impulse to eat garbage during the day. I remember a study released in the early 2000s which indicted apple juice as a cause for obesity. When I was a toddler, I’m told I drank a decent amount of apple juice, so when my parents saw the study, they said "ah-hah! That must have been it!" **But it was so much more.**
 
-Retrospectively, almost everything I ate growing up was unhealthy and I ate way too much, yet no one knew better. My becoming overweight so early on was a result of a complete failure in nutritional education and enforcement from all sides. I now am armed with much more knowledge and the fortitude to live better through a mostly healthy diet and a lot of exercise (which I'll talk about in length in a future post).
+Retrospectively, almost everything I ate growing up was unhealthy and I ate way too much, yet no one seemed to knew better. My becoming overweight so early on was a result of a complete failure in nutritional education and enforcement from all sides. I now am armed with much more knowledge and the fortitude to live better through a mostly healthy diet and a lot of exercise (which I'll talk about in length in a future post).
 
-**My goal is this**: For the rest of my life, I will live as healthy as possible through good nutrition and exercise, prolonging my life. Additionally, I will help others by encouraging the same lifestyle while informing them of nutritional science behind it. If I lose weight in the process, who cares. Weight loss is a side-effect.
+**My goal is this**: For the rest of my life, I will try to live as healthily as possible through good nutrition and exercise, prolonging my life. Additionally, I will try to help others by encouraging the same lifestyle while informing them of nutritional science behind it. Weight loss is just a side-effect.
