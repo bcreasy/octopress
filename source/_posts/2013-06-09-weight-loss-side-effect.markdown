@@ -3,7 +3,7 @@ layout: post
 title: "Weight Loss Is A Side-Effect"
 date: 2013-06-09 11:09
 comments: true
-published: false
+published: true
 categories:
 - Nutrition
 - Weight Loss
