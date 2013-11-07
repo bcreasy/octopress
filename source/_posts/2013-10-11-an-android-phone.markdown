@@ -29,26 +29,27 @@ I decided to switch to an Android-based phone for a few reasons:
 
 First of all, I want to support the free (as in speech) and customizable environment supported by the Android operating system and its Linux kernel.  I decided to use a build of Cyanogenmod on top of the AOSP operating system.  I'm also intentionally not using the Google Play store in favor of [F-Droid](https://f-droid.org/), a 100% FLOSS app repository.
 
-Second, I want to minimize my use of such a device and focus on its truely useful functions.
+Second, I want to minimize my use of such a device and focus on its truly useful functions.
 
-A modern cell phone, to me, is four things:
+To me, a modern cell phone is four things:
 
 1. A communication device (voice, sms, email, chat)
 2. A personal organizer (calendar, reminders, notepad)
 3. An information retrieval device (internet access)
 4. Photo and video camera
 
-Some will argue for having phones be able to play movies, videos, music and games.  These functions encourage distracting yourself from your environment, which I have no interest in doing.  I feel people are becoming increasingly connected all the time via their phones and that I don't want to be a part of that.  I'd rather keep my head up, talk to people and embrace the world around me.
+Some will argue for having phones be able to play movies, videos, music and games.  These functions encourage distracting yourself from your environment, which I have no interest in doing.  I feel people are becoming increasingly connected all the time via their phones.  I'd rather keep my head up, talk to people, and embrace the world around me.
 
-Lastly, I want to have more control of my privacy on my phone.  Implicitly, a cell phone tracks your location as long as it's connected to a cell network.  That part is unavoidable.  What's avoidable is the tracking done by internet services such as Google, Facebook, etc.  To accomplish this, I need to leverage the features of Cyanogenmod and two other customizations: OpenPDroid and [AFWall+](https://f-droid.org/repository/browse/?fdid=dev.ukanth.ufirewall).  OpenPDroid allows me to fine-tune application permissions to things like contact lists and gps.  AFWall+ is a iptables-based firewall that lets me block apps from being able to connect to the network over 3g, wifi or both.
+Lastly, I want to have more control of my privacy on my phone.  Implicitly, a cell phone tracks your location as long as it's connected to a cell network.  That part is unavoidable.  What's avoidable is the tracking done by internet services such as Google, Facebook, etc.
 
-I'm also taking steps to avoid using Google and other online services in favor of storing data and information locally.  Unfortunately, I had to install Google Apps in order to be able to access my work calendar.  However, I blacklist the access of all of the base Google Apps except calendar sync.
+To accomplish this, I need to leverage the features of Cyanogenmod and two other customizations: OpenPDroid and [AFWall+](https://f-droid.org/repository/browse/?fdid=dev.ukanth.ufirewall).  OpenPDroid allows me to fine-tune application permissions to things like contact lists and gps.  AFWall+ is a iptables-based firewall that lets me block apps from being able to connect to the network over 3g, wifi, or both.  I'm also taking steps to avoid using Google and other online services in favor of storing data and information locally.  Unfortunately, I had to install Google Apps in order to be able to access my work and personal calendars.  However, I blacklist the access of all of the base Google Apps except calendar sync.
 
 ### Battery Life
 
 A bonus for tightening down security on my phone is that my battery life is greatly extended.  So far, I've maxed out at 2.5 days of battery life on a single charge and light usage.  I could still tweak my configuration more to get it to 3-4 days.  Currently, much of the strain on my battery is due to the sketchy cell signal at work.
 
 ### Negative Aspects
+
 (see: minor inconveniences)
 
 * No iMessages or gtalk
@@ -57,4 +58,4 @@ A bonus for tightening down security on my phone is that my battery life is grea
 
 ### Conclusion
 
-I'm happy with my purchase.  In Part 2, I go into more detail about how I have my phone set up and how I use it.
+I'm happy with my new phone.  In Part 2, I go into more detail about how I have my phone set up and how I use it.
