@@ -32,6 +32,7 @@ First of all, I want to support the free (as in speech) and customizable environ
 Second, I want to minimize my use of such a device and focus on its truely useful functions.
 
 A modern cell phone, to me, is four things:
+
 1. A communication device (voice, sms, email, chat)
 2. A personal organizer (calendar, reminders, notepad)
 3. An information retrieval device (internet access)
@@ -45,8 +46,7 @@ I'm also taking steps to avoid using Google and other online services in favor o
 
 ### Battery Life
 
-A bonus for tightening down security on my phone is that my battery life is greatly extended.
-
+A bonus for tightening down security on my phone is that my battery life is greatly extended.  So far, I've maxed out at 2.5 days of battery life on a single charge and light usage.  I could still tweak my configuration more to get it to 3-4 days.  Currently, much of the strain on my battery is due to the sketchy cell signal at work.
 
 ### Negative Aspects
 (see: minor inconveniences)
