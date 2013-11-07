@@ -57,4 +57,4 @@ A bonus for tightening down security on my phone is that my battery life is grea
 
 ### Conclusion
 
-All in all, I'm happy with my purchase.  In Part 2, I go into more detail about how I have my phone set up and how I use it.
+I'm happy with my purchase.  In Part 2, I go into more detail about how I have my phone set up and how I use it.
