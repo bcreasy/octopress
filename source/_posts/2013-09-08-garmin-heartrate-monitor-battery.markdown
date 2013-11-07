@@ -2,9 +2,12 @@
 layout: post
 title: "Garmin Heartrate Monitor Battery"
 date: 2013-09-08 16:15
-published: false
+published: true
 comments: true
 categories: 
+- Cycling
+- Garmin
+- Hardware
 ---
 My [Garmin heartrate monitor](https://buy.garmin.com/en-US/US/shop-by-accessories/fitness-sensors/soft-strap-premium-heart-rate-monitor/prod15490.html) stopped recording the other day.  "Easy enough fix," I thought.  "I'll just replace the battery."  I walked to the grocery store down the street and picked up a brand new CR2032 button cell battery for it.  I replaced the battery the same way I've been replacing batteries my whole life, screwing the backing on as the last step.  Then I snapped it back on the strap to make sure it pairs correctly with my [Edge 500](https://buy.garmin.com/en-US/US/into-sports/cycling/edge-500/prod36728.html) computer.  *Nothing*.  The computer doesn't find it.
 
