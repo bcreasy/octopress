@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "An Android Phone, Part 1"
-date: 2013-10-11 14:55
-published: false
+date: 2013-11-07 11:06
+published: true
 comments: true
 categories:
 - Android
