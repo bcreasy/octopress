@@ -29,4 +29,8 @@ I've been connected to IRC almost constantly since the late 90s.  I can be found
 
 ###PGP###
 
-If you find it necessary to encrypt something to send me, my PGP public key can be found [here]({{ root_url }}/genetik-gpg.key).
+If you find it necessary to encrypt something to send me, my PGP key ID is <code>0xBCA64D46</code>
+
+PGP Public Key: [genetik-gpg.asc]({{ root_url }}/genetik-gpg.asc)
+
+PGP Fingerprint: <code>7D24 82AF F764 5EF7 5DE1  E401 58C2 968C BCA6 4D46</code>
