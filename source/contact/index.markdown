@@ -29,7 +29,7 @@ I've been connected to IRC almost constantly since the late 90s.  I can be found
 
 ###PGP###
 
-If you find it necessary to encrypt something to send me, my PGP key ID is <code>0xBCA64D46</code>
+If you find it necessary to encrypt something to send me, my PGP key ID is <code>0x58C2968CBCA64D46</code>
 
 PGP Public Key: [genetik-gpg.asc]({{ root_url }}/genetik-gpg.asc)
 
