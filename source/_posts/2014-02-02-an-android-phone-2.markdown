@@ -26,6 +26,8 @@ My new cell phone, a [Samsung Galaxy S4 Mini (GT-i9190)](/log/2013/11/07/an-andr
 
 ### Installing Cyanogenmod
 
+{% img right /images/posts-embed/bell.png 'Bell' 'Bell' %}
+
 I chose Cyanogenmod for a few reasons: First of all, being it's completely Free (as in speech) and includes no proprietary software.  It's also the most widely used Android ROM, so it's well-supported on my device and kept very up to date with current Android versions.
 
 The instructions for installing Cyanogenmod to the GT-i9190 device can be found [here](http://wiki.cyanogenmod.org/w/Install_CM_for_serrano3gxx).  I followed them with a few additional steps.
