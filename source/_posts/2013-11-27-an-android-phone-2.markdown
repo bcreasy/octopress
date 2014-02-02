@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Android Phone, Part 2"
-date: 2013-11-27 18:02
+date: 2014-01-12 xx:xx
 published: false
 comments: true
 categories:
@@ -41,4 +41,39 @@ To install any custom ROM, you need an unlocked bootloader which this phone has.
 
 Remember, at this point, I'm still without a SIM card in place.  This is because Android/Cyanogenmod is going try to phone home and talk to Google.  I don't want it to do that before I have a chance to configure OpenPdroid and a firewall.
 
+### Configuring OpenPdroid and AFWall+
 
+To install the OpenPdroid configuration app and AFWall+ without a functional network connection in place, I had to "sideload" the apps via a USB adb(1) connection.
+
+After these are installed, I set the firewall up for blacklist mode where app connectivity is whitelisted by default and I select which I want to block.  I set most of the system service apps to pass and blocked all of the default userland apps since I don't plan on using ones such as the default email client and web browser. I configured apps in OpenPdroid a similar way by blocking apps from being able to access contacts, call log, network info, etc.
+
+My approach to using OpenPdroid is to blacklist permissions for everything to begin with and open things up as I find they don't work how I need them to.
+
+### F-droid Apps
+
+I try to avoid using Google's Play store as much as possible when installing apps.  Instead, almost all of the apps I have installed came from the [F-Droid Store](https://www.fdroid.org), a collection of Free and Open Source Software available for the android platform.  All of the apps in f-droid are curated by a community of people who keep a close eye on app licenses, source code availability, and make note of any anti-features (adverts, tracking, non-free dependencies).  The goal is to use as much Free and Open Source software as possible.
+
+Cyanogenmod itself comes bundled only with Free and Open Source apps, so many of the general uses are already covered from the get-go.  Here are apps I have installed through F-Droid:
+
+* AFWall+
+* APG
+* Bitcoin
+* ConnectBot
+* Firefox
+* Hacker's Keyboard
+* K-9 Mail
+* Tomdroid
+* VLC
+
+There are a handful of apps that I installed through the Play store, however:
+
+* App Quarantine
+* BitTorrent Sync
+* Google Authenticator
+* Facebook
+
+I've also installed, as my twitter client, Falcon Pro, which is not open source, but is made freely-available as a plain .apk file outside of app stores.
+
+### Google Apps
+
+Unfortunately, because I want to be able to view my work calendar on my phone and get calendar alerts, I had to install Google Apps.  This means I got all the stuff that comes with that like Google Plus and Gmail clients as well as contact syncing.  So I just blacklisted and quarantined the hell out of all the apps and services that were installed along with it with the exception of calendar syncing.
