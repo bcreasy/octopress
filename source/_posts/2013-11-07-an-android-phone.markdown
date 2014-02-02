@@ -58,4 +58,4 @@ A bonus for tightening down security on my phone is that my battery life is grea
 
 ### Conclusion
 
-I'm happy with my new phone.  In Part 2, I go into more detail about how I have my phone set up and how I use it.
+I'm happy with my new phone.  In [Part 2](/log/2014/02/02/an-android-phone-2/), I go into more detail about how I have my phone set up and how I use it.
