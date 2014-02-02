@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "An Android Phone, Part 2"
-date: 2014-01-12 xx:xx
-published: false
+date: 2014-02-02 12:00
+published: true
 comments: true
 categories:
 - Android
@@ -10,6 +10,7 @@ categories:
 - iPhone
 - Technology
 - Hardware
+- FOSS
 ---
 My new cell phone, a [Samsung Galaxy S4 Mini (GT-i9190)](/log/2013/11/07/an-android-phone/), runs Android 4.2.2, but I've installed a custom distribution called [Cyanogenmod](http://www.cyanogenmod.org) and made modifications/tweaks to make it more secure.
 
@@ -49,31 +50,41 @@ After these are installed, I set the firewall up for blacklist mode where app co
 
 My approach to using OpenPdroid is to blacklist permissions for everything to begin with and open things up as I find they don't work how I need them to.
 
-### F-droid Apps
+### F-Droid Apps
 
 I try to avoid using Google's Play store as much as possible when installing apps.  Instead, almost all of the apps I have installed came from the [F-Droid Store](https://www.fdroid.org), a collection of Free and Open Source Software available for the android platform.  All of the apps in f-droid are curated by a community of people who keep a close eye on app licenses, source code availability, and make note of any anti-features (adverts, tracking, non-free dependencies).  The goal is to use as much Free and Open Source software as possible.
 
 Cyanogenmod itself comes bundled only with Free and Open Source apps, so many of the general uses are already covered from the get-go.  Here are apps I have installed through F-Droid:
 
-* AFWall+
-* APG
-* Bitcoin
-* ConnectBot
-* Firefox
-* Hacker's Keyboard
-* K-9 Mail
-* Tomdroid
-* VLC
+* [AFWall+](https://f-droid.org/repository/browse/?fdfilter=afwall&fdid=dev.ukanth.ufirewall) - Software firewall
+* [APG](https://f-droid.org/repository/browse/?fdfilter=apg&fdid=org.thialfihar.android.apg) - PGP keyring
+* [Bitcoin](https://f-droid.org/repository/browse/?fdfilter=bitcoin&fdid=de.schildbach.wallet) - Bitcoin wallet
+* [ConnectBot](https://f-droid.org/repository/browse/?fdfilter=connectbot&fdid=org.connectbot) - SSH client
+* [Firefox](https://f-droid.org/repository/browse/?fdfilter=firefox&fdid=org.mozilla.firefox) - Web browser
+* [Hacker's Keyboard](https://f-droid.org/repository/browse/?fdfilter=hacker&fdid=org.pocketworkstation.pckeyboard) - Full-featured keyboard, used with connectbot
+* [K-9 Mail](https://f-droid.org/repository/browse/?fdfilter=k-9&fdid=com.fsck.k9) - Mail client
+* [Tomdroid](https://f-droid.org/repository/browse/?fdfilter=tomdroid&fdid=org.tomdroid) - Note taking software
+* [VLC](https://f-droid.org/repository/browse/?fdfilter=vlc&fdid=org.videolan.vlc) - Video player
 
 There are a handful of apps that I installed through the Play store, however:
 
-* App Quarantine
-* BitTorrent Sync
-* Google Authenticator
-* Facebook
+* [App Quarantine](https://play.google.com/store/apps/details?id=com.ramdroid.appquarantine) - Quarantine apps, used for things like Google Apps
+* [BitTorrent Sync](https://play.google.com/store/apps/details?id=com.bittorrent.sync) - Encrypted, distributed backup solution
+* [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2) - Two-factor authentication
+* [Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana) - Facebook
 
-I've also installed, as my twitter client, Falcon Pro, which is not open source, but is made freely-available as a plain .apk file outside of app stores.
+I've also installed, as my twitter client, [Falcon Pro](http://getfalcon.pro), which is not open source, but is made freely-available as a plain .apk file outside of app stores.
+
+Through the App Quarantine app, I've disabled all of the default apps where I prefer to use a third party one.  Examples of this would be email and web browser.  I also disabled any app that I have no interest in ever using like a movie editor or voice dialer.
 
 ### Google Apps
 
 Unfortunately, because I want to be able to view my work calendar on my phone and get calendar alerts, I had to install Google Apps.  This means I got all the stuff that comes with that like Google Plus and Gmail clients as well as contact syncing.  So I just blacklisted and quarantined the hell out of all the apps and services that were installed along with it with the exception of calendar syncing.
+
+### Backups
+
+I perform automatic encrypted torrent-based backups on both my external sdcard and internal sdcard (userland only) using [Bittorrent Sync](http://www.bittorrent.com/sync).  The backups go to my own private servers and only happen over wifi connectivity.  This means aside from data in motion, I have complete control over all aspects of my data.
+
+### Conclusion
+
+As you can see, I put a little bit of effort into customizing my phone to my needs.. and my needs aren't much, as I focused on in [Part 1](/log/2013/11/07/an-android-phone/).  Full-disk encryption aside (which I should probably do at some point), I also focused on making my device secure and private while keeping it as useful as I need it to be.  I encourage you to do the same.
