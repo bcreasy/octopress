@@ -25,7 +25,7 @@ I can be found many places on the internets.  The most universally accessible wa
 
 ###IRC###
 
-I've been connected to IRC almost constantly since the late 90s.  I can be found as **genetik** on [EFnet](irc://irc.efnet.org), [freenode](irc://irc.freenode.net), <strike>QuakeNet</strike>, [d00mnet](irc://irc.d00mnet.com) and [GameSurge](irc://irc.gamesurge.net).
+I've been connected to IRC almost constantly since the late 90s.  I can be found as **genetik** on [EFnet](irc://irc.efnet.org), [freenode](irc://irc.freenode.net), <strike>QuakeNet</strike>, <strike>Undernet</strike>, [d00mnet](irc://irc.d00mnet.com) and [GameSurge](irc://irc.gamesurge.net).
 
 ###PGP###
 
