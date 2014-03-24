@@ -27,6 +27,12 @@ I can be found many places on the internets.  The most universally accessible wa
 
 I've been connected to IRC almost constantly since the late 90s.  I can be found as **genetik** on [EFnet](irc://irc.efnet.org), [freenode](irc://irc.freenode.net), <strike>QuakeNet</strike>, <strike>Undernet</strike>, [d00mnet](irc://irc.d00mnet.com) and [GameSurge](irc://irc.gamesurge.net).
 
+###IM###
+
+* **AIM**: <code>bcreasy123</code> (home), <code>bcreasyCF</code> (work)
+* **Google Talk**: <genetik@gmail.com>
+* **iMessage**: <genetik@gmail.com>
+
 ###PGP###
 
 If you find it necessary to encrypt something to send me, my PGP key ID is <code>0x58C2968CBCA64D46</code>
