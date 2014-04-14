@@ -11,6 +11,8 @@ categories:
 ---
 All signs from the weather forecasts pointed to rain and cold.  We had planned to ride to the race track as a group from the bike shop on the south end of town.  "We", being a handful of Bicycle Sport Shop club members.  Because of the weather forecast, I decided to drive to the shop instead of making the 10-mile ride there.  It had started to rain as I pulled into the parking lot and there were a few cars there already.  It would turn out that these people may or may not have been going to the race track also, but they apparently decided to not ride there and left in their cars.  Roll out time was at 9:00.  It was getting close to that time and I was still in my car, waiting to see if anyone else showed up.  Eventually, without a few minutes to spare, Todd and Daniel rolled up.  I couldn't let anyone think I was weaker than them, so I got out of the car and put my bike together.
 
+<!-- more -->
+
 A grand total of six of us rode to the driveway in a slight drizzle of rain.  We took the newly constructed paved bike trail that took us from the east side, easily under route 183, to the driveway.  The drizzly rain let up on the way there, but, not leading the way, I was subject to rooster tail splash-back from the riders in front of me.  A good "warm"-up.
 
 Once we arrived at the track, we had to check in at the registration tent.  I'd pre-registered with a USA Cycling 1-day license, so I just had to pick up my bib number and sign a few pieces of paper.
