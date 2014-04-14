@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "My First Bike Race"
-date: 2014-04-03 xx:xx
-published: false
+date: 2014-04-13 22:00
+published: true
 comments: true
 categories:
 - Cycling
