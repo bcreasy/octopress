@@ -30,8 +30,8 @@ I've been connected to IRC almost constantly since the late 90s.  I can be found
 ###IM###
 
 * **AIM**: <code>bcreasy123</code> (home), <code>bcreasyCF</code> (work)
-* **Google Talk**: <genetik@gmail.com>
-* **iMessage**: <genetik@gmail.com>
+* **Google Talk**: <code>genetik&#64;gmail.com</code>
+* **iMessage**: <code>genetik&#64;gmail.com</code>
 
 ###PGP###
 
