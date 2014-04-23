@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Sayuri"
+date: 2014-04-xx xx:xx
+published: true
+comments: true
+categories:
+- Servers
+- Linux
+- Colo
+- MacStadium
+- Sayuri
+---
+### Hard Drive Death
+
+Unfortunately, shortly after she was racked, Sayuri began to show signs of drive degradation with slow write speeds.  There were no kernel messages at first, but after a while, they started flying in.  The second drive must have got damaged during shipment.
+
+"Ugh.  I don't want to have to deal with this," I thought, as my stomach sank a little bit.  I'd have to have the drive shipped back to me, then buy a new hard drive, then watch 20 youtube videos on how to take apart a Mac Mini to replace the drive.  Then I'd have to ship it back to the colo, hoping that it didn't suffer the same fate.
+
+But I didn't have to do any of that!  I opened a ticket with MacStadium and asked them how they usually handle this, as I'm sure it happens frequently for them.  They replied back within a half hour saying "We can replace it no problem with Genuine Apple parts.  Which drive model is it? 1TB 5400 RPM? 500GB 5400 RPM? 500GB 7200 RPM? Other?"
+
+Holy crap!  They'll swap out the drive for me?!  I totally wasn't expecting that level of service.  Hardware maintenance was always something I had to do on my own with Nayuki and Shiori and after moving away from Pittsburgh, I had to have friends/family do maintenance for me.
