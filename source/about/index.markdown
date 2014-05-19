@@ -21,4 +21,4 @@ As with most people with an engineering mindset, I am interested in science-type
 
 I am a cyclist.  Cycling plays a significant role in my life and health and is what takes up a majority of my spare time.  I track all of my ride data and post the logs to [Strava](http://www.strava.com).  You'll find a feed of my most recent rides on the side panel of this site.
 
-When I'm not working or riding my bike, I like to watch films and television shows, listen to podcasts, and read books.
+When I'm not working or riding my bike, I like to watch films and television shows, listen to podcasts, read books, and use oxford commas.
