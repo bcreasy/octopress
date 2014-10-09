@@ -11,6 +11,15 @@ categories:
 - MacStadium
 - Sayuri
 ---
+### Nayuki and Shiori
+
+I've had colo servers since around 2003, when I built Nayuki and racked her in my friend's rack at Stargate (now Expedient).  Nayuki is still alive and kicking after 10 years, though she wasn't without downtime during that period.  Over the years, she's had catastrophic hardware failure including hard drive and SATA controller failures.  She originally hosted various web sites, a mail server, DNS, IRC/SILC servers, and served as my main gateway to IRC.  At some point, I bought Shiori, and migrated some of the web sites from Nayuki to her to spread the load.  When Nayuki's hard drive failed, I moved my mail to Google Apps, and DNS to Shiori.  She lived in my apartment for a while, mostly powered off.  I eventually was able to get most of the data from the failed hard drive, though, through pure luck, but I had already reformated her with a compact flash drive for boot partitions (this was before SSD was viable) and new SATA drive for storage.  I re-racked her for the purpose of personal storage and IRC access only -- Shiori was my main server at that point.
+
+Both Nayuki and Shiori's hardware was getting pretty dated, and storage on Shiori was always very low due to small drives and RAID-5 configuration.  So I started to plan on getting a new server.  With the rise of dedicated mac mini colo facilities, it quickly became obvious that they were my best option for a new server.  Shipping 1U servers is expensive, but I'd be able to easily move a mac mini server between colo facilities for not a whole lot of money.  This was increasingly important because my friend's rack was starting to be unreliable due to subletters leaving and him having trouble making payment on the rack.  Simply put, I could no longer depend on the servers there being accessible on a long-term basis.
+
+I decided to go with macstadium because of pricing: unlimited 100mbps bandwidth and 5 ip addresses 
+
+
 ### Hard Drive Death
 
 Unfortunately, shortly after she was racked, Sayuri began to show signs of drive degradation with slow write speeds.  There were no kernel messages at first, but after a while, they started flying in.  The second drive must have got damaged during shipment.
