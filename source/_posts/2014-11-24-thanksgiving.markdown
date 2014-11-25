@@ -2,7 +2,7 @@
 layout: post
 title: "Thanksgiving"
 date: 2014-11-24 21:00:00 -0600
-published: false
+published: true
 comments: true
 categories: 
 - Vegan
