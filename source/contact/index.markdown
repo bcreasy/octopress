@@ -29,6 +29,7 @@ I've been connected to IRC almost constantly since the late 90s.  I can be found
 
 ###IM###
 
+* **XMPP**: <code>genetik&#64;caffeine.nu</code>
 * **AIM**: <code>bcreasy123</code> (home), <code>bcreasyCF</code> (work)
 * **Google Talk**: <code>genetik&#64;gmail.com</code>
 * **iMessage**: <code>genetik&#64;gmail.com</code>
