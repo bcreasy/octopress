@@ -41,3 +41,5 @@ Wikipedia has a great article about [Multiple Sclerosis](https://en.wikipedia.or
 If you want something a little less technical, [Simple Wikipedia](https://simple.wikipedia.org/wiki/Multiple_sclerosis) has a broad overview.
 
 For a fantastically informative and sometimes tragic web log from a young man who's currently suffering from MS, check out [Matt's MS](http://www.mattsms.com/p/my-ms-story.html).
+
+{% img center http://www.cabbits.com/garbage/driveway-20140925.jpg 'Driveway 2014-09-25' 'Driveway 2014-09-25' %}
