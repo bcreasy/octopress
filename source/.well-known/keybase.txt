@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/genetik
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://briancreasy.com
+  * I am genetik (https://keybase.io/genetik) on keybase.
+  * I have a public key with fingerprint 7D24 82AF F764 5EF7 5DE1  E401 58C2 968C BCA6 4D46
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.8"
+        },
+        "key": {
+            "fingerprint": "7d2482aff7645ef75de1e40158c2968cbca64d46",
+            "host": "keybase.io",
+            "key_id": "58C2968CBCA64D46",
+            "uid": "f2c04b89215ecb3be3c1cdac92c4a500",
+            "username": "genetik"
+        },
+        "merkle_root": {
+            "ctime": 1435275121,
+            "hash": "ae9b8523cce25792cf54fbfca34efbd696d9da9ea9072638c73ed0184785c10bd46f536675955cb9cdaa127978f0273dfa40a295839b90bec9ef0cf3f31575fa",
+            "seqno": 252713
+        },
+        "service": {
+            "hostname": "briancreasy.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1435275448,
+    "expire_in": 157680000,
+    "prev": "cbf0d8210e0daee318e83d759390720993a5a02c63cad5989e6ff02b2c3abd87",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFVkjtoFEEYx9doRIWAaSxDWNvjmOfOzBWinsTK0gcYOObxzWVMsnvZ3USPeIVg
+kSJFKhshFj5a7bXRTgTFwlrbNHZ2Fs4cJ5qp5vH7/vP/fzMHCyezucU7H57sv3t1
+Y+XEpyOT3dw/eLubm8qN895ubjcClG2alXoT8l6+DmOjG+iGarmsHHTvNcszppPv
+QN2EqowU6oquzCedhKdiH8oh1KM6JK1cOMIk0d6LgnHwgjvAwBDm0hJVSGusLphj
+RZRcq5r22K35VHMQXNzlsp/4/tX+lYJdm/Lb0wNPLGJGKoI5WEMNUIut01YRyzRH
+KIEN1LNIQyihDevJ7ibU6xswqKtqmtm2IRGYUU4ExwRHQ7pZizUalJGcUGuBcBF1
+PWfeeKspA29coQqnnFagFRKkoNIKCg5hyYTkFiMT03lOi0Jwxbk1KrrTmAglpEdE
+UOc1Q5ooLqkyChmwCjyynnqKueBexwQNbJVV3iPRGqaTtK53goXkO3VtFs7UQZe2
+Bt2Mu7bajHWjumorW23Ew7W2HfVS7nY8SvB9eGMGM52BCaWLz/b/u+KIHu8JY7KT
+w4NRqGEQEsFFIVEc6R7YiZrWeOQkwQiQ0wAUS5DUxdw0tQYpRTXXiNiCWu24kgoK
+H3tgiKXaOCn+JcUsGtXDqNmEYanb7Rryyd7KqWxxLjs9P5c+bnbu7Pm/v/njfPbs
+4erLX0sXfv7eu/vo8evDy7ee376+kB1e/P5++HS1o75+myxd+vL5xdGZH5M/
+=oqFn
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/genetik
+
+==================================================================
