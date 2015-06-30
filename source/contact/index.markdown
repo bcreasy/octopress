@@ -5,7 +5,7 @@ comments: false
 sharing: false
 footer: false
 ---
-I can be found many places on the internets.  The most universally accessible way to get in touch with me is through [e-mail](mailto:genetik \(at\) gmail \(dot\) com), but the fastest for most people these days is via [Twitter](https://twitter.com/genetik).
+I can be found many places on the internets.  The most universally accessible way to get in touch with me is through [e-mail](mailto:genetik \(at\) caffeine \(dot\) nu), but the fastest for most people these days is via [Twitter](https://twitter.com/genetik).
 
 ###Homes on the Internets###
 
@@ -13,15 +13,16 @@ I can be found many places on the internets.  The most universally accessible wa
 * **Google+**: https://profiles.google.com/genetik
 * **LinkedIn**: https://www.linkedin.com/in/genetik
 * **Facebook**: https://www.facebook.com/brian.creasy
-* **Reddit**: http://www.reddit.com/user/genetik
+* **Reddit**: https://www.reddit.com/user/genetik
 * **YouTube**: https://www.youtube.com/genetik123
-* **Instagram**: http://instagram.com/instagenetik
+* **Instagram**: https://instagram.com/instagenetik
 * **GitHub**: https://github.com/bcreasy
 * **tumblr**: http://genetik.tumblr.com
 * **flickr**: https://www.flickr.com/photos/66978651@N00
 * **Steam**: https://steamcommunity.com/profiles/76561198009384713
 * **Vimeo**: https://vimeo.com/genetik
-* **Strava**: http://app.strava.com/athletes/349321
+* **Strava**: https://app.strava.com/athletes/349321
+* **Keybase**: https://keybase.io/genetik
 
 ###IRC###
 
@@ -36,7 +37,7 @@ I've been connected to IRC almost constantly since the late 90s.  I can be found
 
 ###PGP###
 
-If you find it necessary to encrypt something to send me, my PGP key ID is <code>0x58C2968CBCA64D46</code>
+Use of encryption is [very important to me and the rest of the world](https://www.privacyinternational.org/?q=node/599).  If possible, please take the time to encrypt communication with me.  My PGP key ID is <code>0x58C2968CBCA64D46</code>
 
 PGP Public Key: [genetik-gpg.asc]({{ root_url }}/genetik-gpg.asc)
 
