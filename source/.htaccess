@@ -1,1 +1,2 @@
 RedirectMatch 301 /r/?$ http://www.briancreasy.com/resume
+RedirectMatch 301 /genetik-gpg.asc http://www.briancreasy.com/gpg/genetik-gpg.asc

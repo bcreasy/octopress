@@ -37,11 +37,14 @@ I've been connected to IRC almost constantly since the late 90s.  I can be found
 
 ###PGP###
 
-Use of encryption is [very important to me and the rest of the world](https://www.privacyinternational.org/?q=node/599).  If possible, please take the time to encrypt communication with me.  My PGP key ID is <code>0x58C2968CBCA64D46</code>
+Use of encryption is [very important to me and the rest of the world](https://www.privacyinternational.org/?q=node/599).  If possible, please take the time to encrypt communication with me.  My PGP key ID is <code>0x4C2F9E44C5C41DF6</code>
 
-PGP Public Key: [genetik-gpg.asc]({{ root_url }}/genetik-gpg.asc)
+PGP Public Key: [genetik-gpg.asc]({{ root_url }}/gpg/genetik-gpg.asc)
 
-PGP Fingerprint: <code>7D24 82AF F764 5EF7 5DE1  E401 58C2 968C BCA6 4D46</code>
+PGP Fingerprint: <code>A063 4B43 3DD4 72EC 6A53  24CC 4C2F 9E44 C5C4 1DF6</code>
+
+**Note**: As of 2015-08-05, I began transitioning to a 4096-bit RSA PGP key.  My deprecated key fingerprint is <code>7D24 82AF F764 5EF7 5DE1  E401 58C2 968C BCA6 4D46</code>.  Here is my transition statement: [key-transition-2015-08-05-genetik.txt](/gpg/key-transition-2015-08-05-genetik.txt).
+
 
 ###Bitcoin###
 
