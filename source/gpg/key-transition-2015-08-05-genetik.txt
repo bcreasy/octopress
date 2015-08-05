@@ -1,0 +1,81 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1,SHA512
+
+Wed Aug  5 13:47:30 CDT 2015
+
+For a number of reasons, I've recently set up a new OpenPGP key, and
+will be transitioning away from my old one.
+
+The old key will continue to be valid for some time, but I prefer all
+future correspondence to come to the new one. I would also like this
+new key to be re-integrated into the web of trust. This message is
+signed by both keys to certify the transition.
+
+The old key was:
+
+pub   1024D/0x58C2968CBCA64D46 2002-11-21 [expires: 2016-07-30]
+      Key fingerprint = 7D24 82AF F764 5EF7 5DE1  E401 58C2 968C BCA6 4D46
+
+And the new key is:
+
+pub   4096R/0x4C2F9E44C5C41DF6 2015-07-31 [expires: 2016-07-30]
+      Key fingerprint = A063 4B43 3DD4 72EC 6A53  24CC 4C2F 9E44 C5C4 1DF6
+
+(Use --keyid-format 0xlong to list the 16-character key ID.)
+
+To fetch my new key from a public key server, you can do:
+
+  gpg --keyserver keys.gnupg.net --recv-key 0x4C2F9E44C5C41DF6
+
+If you already know my old key, you can now verify that the new key is
+signed by the old one:
+
+  gpg --check-sigs 0x4C2F9E44C5C41DF6
+
+If you don't already know my old key, or you just want to be double
+extra paranoid, you can check the fingerprint against the one above:
+
+  gpg --fingerprint 0x4C2F9E44C5C41DF6
+
+If you are satisfied that you've got the right key, and the UIDs match
+what you expect, I'd appreciate it if you would sign my key:
+
+  gpg --sign-key 0x4C2F9E44C5C41DF6
+
+Lastly, if you could upload these signatures, I would appreciate it.
+
+You can either send me an e-mail with the new signatures (if you have
+a functional MTA on your system):
+
+  gpg --armor --export 0x4C2F9E44C5C41DF6 | mail -s 'GPG Signatures' genetik@caffeine.nu
+
+Or you can just upload the signatures to a public keyserver directly:
+
+  gpg --keyserver keys.gnupg.net --send-key 0x4C2F9E44C5C41DF6
+
+You can also find this signed message at:
+
+  http://www.briancreasy.com/gpg/key-transition-2015-08-05-genetik.txt
+
+Please let me know if there is any trouble, and sorry for the
+inconvenience.
+
+- --
+Brian J. Creasy <genetik@caffeine.nu>
+-----BEGIN PGP SIGNATURE-----
+
+iEYEARECAAYFAlXCY88ACgkQWMKWjLymTUYWcgCeI4Rn7cLoa33Fti/SxR2W0aC4
+9AkAoLGfAiIe8QxSYamIIrEuqcEORImRiQIcBAEBCgAGBQJVwmPPAAoJELORauMk
+IiRmzm4P/209oNj1KF29bXsOmpMCxgFjYJsyAdU0jpG9y6GiqLNTRnYGXAcWZ6t7
+air4QBp5Wr3XTIkfnxGUwMeyg8tvNH2shErUC9N/C3F5dkA7hNvF4j6hATB4R2bd
+t47xwQkQ4gDsAO3HpMdQ4GZt6+hRzy8c0YTuBkFbluTloWn0JMBCtQh/UU0Hy5fE
+Q0sQgiqz78NPwcXqqs18kbKNa+yhVZH+PEWBY8dvl02smnh9EhlhkgLe9ZQPaCRt
+SH60iry727B3H0wr0hrcYwYu4GWRDl5KQrJPikckn+sD/8Tbvu63/havEzmaKBCP
+NLarteTlZguws5wPXdALIqCrwnqe24bHZmC2xocEamv90VB9Y0DomcU7Ubl/GPzC
+clNAG2enHAUVyBCJ8lOE6WEcm+rnvZpJPTDRR4M16fYRvuHyyFjNwlnd35/Bnp8g
+Lu4skbbeiXYLaiICd3tlScW6B5XBl+OYjJdd4+Feo2N0TXbMrzhVaA95l7n1/2+q
+KxfC9JrJgpdrB4EOrw2TB8E7w4MBms9JJvYGiJ6sjJhV2B+NzvLq3Yf8MkKdzcMv
+4Sbcn38EJr3aOEGgJyq+SrGH0hPYPSpTzS5P2UXHWvO/bUQaeINeuKtaGaq2h7Zg
+nE9G1GU6wiU/7oK5Z8Ju7qN2zrfwponb+ByF1jfWnLIJXLPdxI0D
+=PYiN
+-----END PGP SIGNATURE-----
