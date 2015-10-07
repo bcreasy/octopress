@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Race Report: Driveway Series Week 28, 3/4"
-date: 2015-10-07 12:30:00
+date: 2015-10-07 12:30:00 -0500
 published: true
 comments: true
 categories:
